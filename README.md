@@ -1,2 +1,2 @@
 # PetProject
-Spring MVC + JDBC(MySQL) + Tomcat + JUnit (TaskManager)
+Spring MVC + JDBC(MySQL) + Tomcat + JUnit
